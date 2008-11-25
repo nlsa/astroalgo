@@ -1,6 +1,6 @@
 #include "astroalgo.h"
 #include "astromath.h"
-#include "astroconst.h"
+#include "astrolabels.h"
 
 /* C Headers */
 #include <math.h>
