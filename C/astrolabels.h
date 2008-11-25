@@ -1,5 +1,5 @@
-#ifndef _ASTROCONST_H
-	#define _ASTROCONST_H
+#ifndef _ASTROLABELS_H
+	#define _ASTROLABELS_H
 	
 #include "astroalgo.h"
 	
@@ -54,4 +54,4 @@ const short		maxdays[12] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
 }
 #endif
 
-#endif /* _ASTROCONST_H */
+#endif /* _ASTROLABELS_H */
